@@ -1,0 +1,1 @@
+GuitarGenius is a computer-based guitar learning system that provides instruction through a videogame-like interface. The hardware allows any acoustic or electric guitar to plug into a computer, and the software will display and record the user's musical performance. 

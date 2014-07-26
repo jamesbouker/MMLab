@@ -1,0 +1,1 @@
+iSign is a speech recognition application that converts spoken English into video clips of American Sign Language (ASL). Developed in concert with the Cleary School for the Deaf, iSign was designed to help hearing impaired students acquire vocabulary and lip reading skills working with care givers who are not fluent in ASL.

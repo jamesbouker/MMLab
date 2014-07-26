@@ -1,0 +1,1 @@
+The Silhouette Tracking Entertainment Program is a computer vision application that captures the movements of the entire human body. This is accomplished based only on the user's silhouette or shadow. We intend to develop a solution that offers an alternative means of computer interaction that is natural, affordable, and can be deployed in any environment. 

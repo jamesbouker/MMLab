@@ -1,0 +1,1 @@
+MusicMaker is a physical computing application that uses a standard dance pad for input. The application allows users to dance to compose songs, and teaches them the basics of notes and scales.
